@@ -1,0 +1,36 @@
+body {
+    background-color: #ddf0ee;
+  }
+  
+  #main {
+       font-size: 18px;
+       font-family: Arial, Helvetica; 
+       background-color: white; 
+       margin: 100px 60px 100px 60px;
+       padding: 40px;
+       border: 1px solid black;
+       }
+  h1, h2, #img-caption {
+       text-align:center;
+    }
+  
+  h2 {
+    font-style:italic;
+  }
+  
+  #leftalign {
+       text-align: left;
+       list-style-type:none;
+    }
+  
+  #image {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 100%;
+       height: auto;
+    }
+  
+  p {
+    text-align: justify;
+  }
